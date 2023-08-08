@@ -11,8 +11,7 @@ Once the development is completed try to deploy it on Netlify or any other hosti
 (https://www.netlify.com/)
 
 
-https://keep.google.com/u/0/media/v2/177mk0r6BI7H1ugONf1PkxSS7xR_Qd7gVPN3LIxoBvkRFS0VRR5KIJ267ZAgw/1M8ZHuL_rcuoSPN4Ezy_TgdNVNdL1gd7ILJJ2h2HxjOrg5qaCxKlAY1BWeaVp-zY?accept=image%2Fgif%2Cimage%2Fjpeg%2Cimage%2Fjpg%2Cimage%2Fpng%2Cimage%2Fwebp%2Caudio%2Faac&sz=1362
-
+![unnamed](https://github.com/srikanthmiriyala017/movieSearch___017/assets/123526232/03f8fdbc-4183-4ec9-901e-c608302225dd)
 
 Key features to be implemented:
 Movie name based search
