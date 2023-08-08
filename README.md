@@ -10,6 +10,7 @@ Your app should look more or less like below.
 Once the development is completed try to deploy it on Netlify or any other hosting service
 (https://www.netlify.com/)
 
+![GitHub Logo](https://github.com/username/repo/raw/main/images/github-logo.png)
 
 
 
